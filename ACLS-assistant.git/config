@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/howard92419/ACLS-assistant.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
+	push = +refs/heads/*:refs/heads/*
